@@ -15,8 +15,6 @@ The main focus of this bot was to:
   - Spread awareness of the risks of posting product keys online in the open.
   - Show people that bots can actually do a lot, by matching the pattern of the product key to what it might be used for (Steam, Uplay, Microsoft Store, etc)
 
-I created this reddit bot with the knowledge i have from the past 3.5 years of doing my IT Software Engineering college degree, and 10+ total years of coding experience. I made sure to put as many comments as i can in the code to try and help people understand what is going on. I hope you can learn from it.
-
 You can see the bot in action in this test thread: https://www.reddit.com/r/testingground4bots/comments/ehrr9o/testing_my_first_reddit_bot_in_the_comments/
 
 Here is one of the latest variations of comments it posted:
