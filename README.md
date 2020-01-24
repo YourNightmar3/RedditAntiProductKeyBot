@@ -1,4 +1,4 @@
-# RedditAntiProductKeyBot
+# Reddit Anti Product Key Bot
 A reddit bot that scans comments on specified subreddits for product keys, and once found posts a comment telling people it is not smart to post product keys on Reddit like that.
 
 This is actually the first time i am posting something on Github so please bare with me. Also not that i am (most likely) not going to update this project anymore. Also please note that this entire project is published in one go after the development was done, so there are no commits and stuff like that in this project.
