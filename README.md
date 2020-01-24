@@ -14,6 +14,7 @@ The bot has been active for about a month until i finally shut it down after rec
 The main focus of this bot was to:
   - Spread awareness of the risks of posting product keys online in the open.
   - Show people that bots can actually do a lot, by matching the pattern of the product key to what it might be used for (Steam, Uplay, Microsoft Store, etc)
+  - Focus on multithreading for optimal performance
 
 You can see the bot in action in this test thread: https://www.reddit.com/r/testingground4bots/comments/ehrr9o/testing_my_first_reddit_bot_in_the_comments/
 
