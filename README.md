@@ -43,9 +43,9 @@ I used the Newtonsoft.Json v11.02 dependency to serialize the statistics object 
 Every now and then when the reddit API returns an error, the bot throws an unhandled exception. I haven't been able to figure out where in the code it occurs. It happens maybe once a week on average.
 
 # Licensing
-Honestly i've never done this before so tell me if this is incorrect but i'm releasing this under the [GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/) license.
+Honestly i've never done this before so tell me if this is incorrect but i'm releasing this under the [MIT License](https://choosealicense.com/licenses/mit/) license.
 
-THe point of this upload is for others to learn from my code. You can use my code to create your own Reddit bot, but if you don't want to do that, you're also allowed to host this bot on your own Reddit bot account. Just make sure to remove my username from the comments the bot posts in CommentHandler.PostReply
+The point of this upload is for others to learn from my code. You can use my code to create your own Reddit bot, but if you don't want to do that, you're also allowed to host this bot on your own Reddit bot account. Just make sure to remove my username from the comments the bot posts in CommentHandler.PostReply
 
 # Disclaimer
 - I am in no way responsible for what you use this code for. I published it for learning purposes. Yes i do realize it can easily be rewritten to have bad intentions.
