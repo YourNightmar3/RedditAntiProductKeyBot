@@ -36,16 +36,13 @@ Some fun statistics:
 - It has posted around 50 replies not counting the ones that were for testing.
 - Around 35 to 40 of those replies were posted on actual product keys. The others were false detections (mostly at the start of the development process) which i managed to minimize with lots of testing and changing the regex to detect product keys over time.
 
+The point of this upload is for others to learn from my code. You can use my code to create your own Reddit bot, but if you don't want to do that, you're also allowed to host this bot on your own Reddit bot account. Just make sure to remove my username from the comments the bot posts in CommentHandler.PostReply, because i'd rather not get into more trouble with subreddit moderators, but make sure to keep copyright and licencing in place where needed :).
+
 # Dependencies
 I used the Newtonsoft.Json v11.02 dependency to serialize the statistics object to a JSON file, and the RedditSharp v1.1.14 library to communicate with Reddit
 
 # Known issues
 Every now and then when the reddit API returns an error, the bot throws an unhandled exception. I haven't been able to figure out where in the code it occurs. It happens maybe once a week on average.
-
-# Licensing
-Honestly i've never done this before so tell me if this is incorrect but i'm releasing this under the [MIT License](https://choosealicense.com/licenses/mit/).
-
-The point of this upload is for others to learn from my code. You can use my code to create your own Reddit bot, but if you don't want to do that, you're also allowed to host this bot on your own Reddit bot account. Just make sure to remove my username from the comments the bot posts in CommentHandler.PostReply, because i'd rather not get into more trouble with subreddit moderators, but make sure to keep copyright and licencing in place where needed :).
 
 # Disclaimer
 - I am in no way responsible for what you use this code for. I published it for learning purposes. Yes i do realize it can easily be rewritten to have bad intentions.
