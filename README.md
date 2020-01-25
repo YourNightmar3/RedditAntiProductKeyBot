@@ -42,9 +42,11 @@ I used the Newtonsoft.Json v11.02 dependency to serialize the statistics object 
 # Known issues
 Every now and then when the reddit API returns an error, the bot throws an unhandled exception. I haven't been able to figure out where in the code it occurs. It happens maybe once a week on average.
 
+# Licensing
+Honestly i've never done this before so tell me if this is incorrect but i'm releasing this under the [GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/) license.
+
+THe point of this upload is for others to learn from my code. You can use my code to create your own Reddit bot, but if you don't want to do that, you're also allowed to host this bot on your own Reddit bot account. Just make sure to remove my username from the comments the bot posts in CommentHandler.PostReply
+
 # Disclaimer
 - I am in no way responsible for what you use this code for. I published it for learning purposes. Yes i do realize it can easily be rewritten to have bad intentions.
-- You are allowed to host your own anti product key bot as you please using this code. If you do, please make sure to remove my username from the comments the bot posts in CommentHandler.PostReply. I would rather not get in any more trouble with subreddit moderators.
-- You are allowed to use this code as an example to create your own reddit bot. Actually, please do! That would be awesome and is exactly the reason i'm posting this.
-- You are NOT ALLOWED to reupload this code and claim it was you who wrote it. That wouldn't be very nice.
 - I understand that my code is not perfect, but it should be good enough to learn something from.
