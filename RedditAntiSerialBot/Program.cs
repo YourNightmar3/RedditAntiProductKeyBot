@@ -36,10 +36,7 @@ namespace RedditAntiSerialBot
      * 
      * I added as much comments as i thought was nessecary to try amd help people know what's going on. I hope you can learn something from my code.
      * 
-     * PERMISSIONS:
-     * - You are allowed to host your own anti product key bot as you please using this code. (Please read the bottom line of this comment section)
-     * - You are allowed to use this code as an example to create your own reddit bot.
-     * - You are NOT ALLOWED to reupload this code and claim it was you who wrote it.
+     * As stated on the Github page, this project is released under the MIT license.
      * 
      * IF YOU ARE GOING TO HOST YOUR OWN ANTI PRODUCT KEY REDDIT BOT: I do request you to REMOVE my reddit tag from CommentHandler.PostReply. I would rather not get in trouble with any more subreddit mods.
      */
